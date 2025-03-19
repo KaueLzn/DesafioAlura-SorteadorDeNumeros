@@ -19,7 +19,7 @@ function sortear() {
     } 
 
 }
-// if (qtdNumero > (fim - inicio))
+
 
 function gerarNumeros(repeticao, inicio, fim) {
     let listaNumeros = [];
